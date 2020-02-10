@@ -115,7 +115,6 @@ S3method(min, ssDate)
 S3method(min, ti)
 S3method(months, default)
 S3method(nberShade, default)
-S3method(nberShade, ggplot)
 S3method(Ops, jul)
 S3method(Ops, ssDate)
 S3method(Ops, ti)
@@ -188,3 +187,4 @@ S3method(ymd, ti)
 if(getRversion() >= "3.6.0") {
   S3method(ggplot2::fortify, "tis")
 }
+

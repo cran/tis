@@ -48,7 +48,7 @@ romerLines()
   The Romer dates are October 1947, September 1955, December 1968,
   April 1974, August 1978, October 1979 and December 1988.
 }
-\seealso{ \code{\link{polygon}}, \code{\link{nberShade.ggplot}}}
+\seealso{ \code{\link{polygon}}}
 \keyword{ aplot }
 \examples{
     require("datasets")

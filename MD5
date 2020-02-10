@@ -1,5 +1,5 @@
-9f206c1eb1e4feac4388f57df7d09081 *DESCRIPTION
-e5c0252e4d1bfc11c1b0655904a76901 *NAMESPACE
+7330ec0697035eae4215ba5781ba52d2 *DESCRIPTION
+fc3f9bf281934dfb6822fe0531f869eb *NAMESPACE
 046c53476c8f8e3ba103c5aa7ed26986 *NEWS
 a867083d3a728e4969dbd3c205c1eeb1 *R/Lag.R
 e3405b4e53160c80f06062a70d55ed6f *R/RowSums.R
@@ -26,7 +26,6 @@ be5ef023a8722b3695d02a1936931013 *R/fortify.tis.R
 aa5ea6ca8a7ed3047cfb00d361018c25 *R/lags.R
 2c1c1ca1cb30e0003444a4654ef58cf9 *R/naWindow.R
 8e2bdce2abb075503cef3afc51a6e7b0 *R/nber.R
-d0d51a92a65b09f3100525c08e03c173 *R/nberShade.ggplot.R
 cdf3ec2a24c1f3dd334ef0c0ebc596c3 *R/plotWindow.R
 0c471668d5a3070418e4a6eb2e044ea1 *R/rowsAndColumns.R
 2460916b6f182f9f360c651be643f87b *R/scatterPlot.R
@@ -94,8 +93,7 @@ f38ee16a674c8f3621c024dd2e23afb1 *man/interpNA.Rd
 dc9493fc5291ab9926f58fb9d3612719 *man/lines.tis.Rd
 1efbbe8fb0e983f9e26706d143de5389 *man/mergeSeries.Rd
 38c67b41c4123624509752d8d2f9d702 *man/naWindow.Rd
-c9acd78ecdc1d78983021b1deda7e26b *man/nberShade.Rd
-856ce3dfb0d06a039a93292e84f8f220 *man/nberShade.ggplot.Rd
+20cb40d823d6eeaccf1bd65ca711afda *man/nberShade.Rd
 61bd3d3315bd9492997a45cda09b94f0 *man/plotWindow.Rd
 41d252ea0611ea8ad8af5822c0e96e4f *man/print.ti.Rd
 b52b402176c107c75b2dfdc4c18c0050 *man/print.tis.Rd
