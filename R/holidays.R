@@ -69,6 +69,7 @@ federalHolidays <- function(years, board = F, businessOnly = T){
   ## Federal law defines 10 holidays.  4 are set by date:
   ##
   ##   NewYears       January 1
+  ##   Juneteenth     June 19
   ##   Independence   July 4
   ##   Veterans       November 11
   ##   Christmas      December 25
@@ -95,6 +96,7 @@ federalHolidays <- function(years, board = F, businessOnly = T){
          MLKingDay(years),
          GWBirthday(years),
          MemorialDay(years),
+         Juneteenth(years),
          IndependenceDay(years),
          LaborDay(years),
          ColumbusDay(years),
@@ -269,6 +271,18 @@ easter <- function(years){
   day <- L + 28 - 31*(month %/% 4)
   10000*years + 100*month + day
 }
+
+
+Juneteenth <- function(years){
+  
+  years <- years[years >= 2021]
+  if(length(years) == 0) return(numeric(0))
+  ans <- 10000*years + 0619
+  names(ans) <- rep("Juneteenth", length(ans))
+  sort(ans)
+  
+}
+
 
 holidaysBetween <- function(startTi, endTi, goodFriday = F,
                             board = F,  inaug = board, businessOnly = T){

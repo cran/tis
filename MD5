@@ -1,6 +1,6 @@
-7330ec0697035eae4215ba5781ba52d2 *DESCRIPTION
+e63ff47efc17882d4831709b465feedc *DESCRIPTION
 fc3f9bf281934dfb6822fe0531f869eb *NAMESPACE
-046c53476c8f8e3ba103c5aa7ed26986 *NEWS
+82c30f62b3d371f1bf6980f08b219b68 *NEWS
 a867083d3a728e4969dbd3c205c1eeb1 *R/Lag.R
 e3405b4e53160c80f06062a70d55ed6f *R/RowSums.R
 e5a9ac6c4a4d27bbc52d6275a0502c90 *R/asClassyList.R
@@ -20,12 +20,12 @@ fa0ace5b2b3bd07646d02bbab3caf7dd *R/evalOrEcho.R
 8022347d00ee44cce8720562d4ff0a4c *R/format.default.R
 be5ef023a8722b3695d02a1936931013 *R/fortify.tis.R
 5bcefdeee55f2ef28aeacfdfc0f02ae4 *R/growth.rate.R
-36f4f2f657c247660f37b34f14c3c36d *R/holidays.R
+0e731fa5543fea575a47ddcb49b090e6 *R/holidays.R
 0a6011b89739cf8c19bff2c9304a3740 *R/inferTi.R
 44eba8aae83072689a86f00cc39fd0a7 *R/interpNA.R
 aa5ea6ca8a7ed3047cfb00d361018c25 *R/lags.R
 2c1c1ca1cb30e0003444a4654ef58cf9 *R/naWindow.R
-8e2bdce2abb075503cef3afc51a6e7b0 *R/nber.R
+cd5089fd44c8e03087db5530c226fbf8 *R/nber.R
 cdf3ec2a24c1f3dd334ef0c0ebc596c3 *R/plotWindow.R
 0c471668d5a3070418e4a6eb2e044ea1 *R/rowsAndColumns.R
 2460916b6f182f9f360c651be643f87b *R/scatterPlot.R
